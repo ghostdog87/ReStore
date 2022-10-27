@@ -1,5 +1,4 @@
 import { AppBar, Switch, Toolbar, Typography } from "@mui/material";
-import { ChangeEvent, useState } from "react";
 
 interface Props {
     darkMode: boolean;
